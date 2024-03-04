@@ -1,6 +1,7 @@
-# Estadística aplicada a los negocios ![icons8-estadísticas-64](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/31f161ae-1e6d-41de-baab-1d7179debfd2)
+# Estadística aplicada a los negocios  ![icons8-estadísticas-64](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/184b4b85-0b85-4fb8-9353-8dcbfbd6129e)
+
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Este repositorio contiene todos los proyectos realizados en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
+## El repositorio contiene todos los proyectos realizados en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
 ## La asignatura está compuesta por los siguientes contenidos:
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a estadística.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos univariados.
@@ -12,7 +13,7 @@
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Intervalos de confianza.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Test de hipótesis.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto integrador: Análisis de la vinoteca Casacatar  ![icons8-analysis-66](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/c8070fa5-a964-46b6-a5b3-5c1d71af825b)
+## Proyecto integrador: Análisis de la vinoteca Casacatar 
 #### Fuente de datos:  ‎ ‎[TI_Problemática.xlsx](https://github.com/agustinphx/Estadisticada_aplicada/files/14389276/TI_Problematica.xlsx)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -31,14 +32,14 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Selección de las variables
-#### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64)  Variable estadística A: Edad de los clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición numérica y el tipo de dato es cuantitativa discreta.
+####  ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0) Variable estadística A: Edad de los clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición numérica y el tipo de dato es cuantitativa discreta.
 #### Población estadística: Todas las edades de los clientes frecuentes de la vinoteca Casacatar en el año 2022.
 #### Espacio: Vinoteca Casacatar.
 #### Tiempo: En el año 2022.
 #### Escala de medición numérica y tipo de dato cuantitativo.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-#### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64)  Variable estadistica B:  Sexo de los clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición nominal y el tipo de dato es cualitativa.
+#### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)  Variable estadistica B:  Sexo de los clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición nominal y el tipo de dato es cualitativa.
 #### Población estadística: Todos los sexos de los clientes frecuentes de la vinoteca Casacatar en el año 2022.
 #### Espacio: Vinoteca Casacatar.
 #### Tiempo: En el año 2022.
@@ -46,14 +47,14 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-#### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64)  Variable estadística C:  Cantidad de unidades adquiridas de bebidas por los clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición numérica y el tipo de dato es cuantitativa discreta.
+#### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)   Variable estadística C:  Cantidad de unidades adquiridas de bebidas por los clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición numérica y el tipo de dato es cuantitativa discreta.
 #### Población estadística: Todas las unidades adquiridas por los clientes frecuentes de la vinoteca Casacatar en el año 2022.
 #### Espacio: Vinoteca Casacatar.
 #### Tiempo: En el año 2022.
 #### Escala de medición numérica y tipo de dato cuantitativo
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-#### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64)  Variable estadística D:  Cercanía a la vinoteca en metros de los  clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición numérica y el tipo de dato es cuantitativa continua.
+#### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)   Variable estadística D:  Cercanía a la vinoteca en metros de los  clientes frecuentes de la vinoteca Casacatar en el año 2022, posee una escala de medición numérica y el tipo de dato es cuantitativa continua.
 #### Población estadística: Todas las distancias en metros de los  clientes frecuentes de la vinoteca Casacatar en el año 2022.
 #### Espacio: Vinoteca Casacatar.
 #### Tiempo: En el año 2022.
@@ -70,7 +71,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64)  Análisis  para la variable estadística A
+### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)   Análisis  para la variable estadística A
 #### Edad de los clientes frecuentes de la vinoteca Casacatar en el año 2022
 ![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/e9b2cf4f-0745-46d2-9c3b-6ce4a328dddc)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -104,7 +105,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64) Análisis  para la variable estadística B
+### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0) Análisis  para la variable estadística B
 #### Sexo de los clientes frecuentes de la vinoteca Casacatar en el año 2022.
 ![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/940a64df-d9c5-475d-bd62-7d8a093adbda)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -114,7 +115,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64) Análisis  para la variable estadística C
+### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0) Análisis  para la variable estadística C
 #### Cantidad de unidades adquiridas por los clientes frecuentes de la vinoteca Casacatar en el año 2022.
 ![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/7c61a402-7b47-45e9-b02d-b000d311451f)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -150,7 +151,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### ![icons8-esfera-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/727a4c85-83e3-4bb1-a643-fc3272d64f64)  Análisis  para la variable estadística D
+### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)  Análisis  para la variable estadística D
 #### Cercanía a la vinoteca en metros de los clientes frecuentes de la vinoteca Casacatar en el año 2022.
 ![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/dbdfcf2d-e761-4b92-927e-8b94c4e7ba43)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -186,11 +187,13 @@
 #### https://www.microsoft.com/es-ar/microsoft-365/excel)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## R ![icons8-proyecto-r-48](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/26f923c8-ec3d-47a2-9dc5-4f35f9f08419)
+## R ![icons8-proyecto-r-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/2234e4d9-25a4-49ad-b9d0-05d5570577e8)
+
 #### https://r-project.org/
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## InfoStat ![1](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/f62b72ec-f396-49ec-8680-1170e26cc646)
+## InfoStat ![1](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/ca4007e5-1fdb-46f8-b6df-6ed215a9b8c3)
+
 #### https://www.infostat.com.ar/
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### Bibliografia consultada: Estadística para Administración y Economía, autores: David R. Anderson, Dennis J. Sweeney & Thomas A. Williams, editorial: Cengage, 10a edición.

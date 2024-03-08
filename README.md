@@ -62,7 +62,8 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Muestra de referencia de las variables seleccionadas
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/efd373b9-bb1b-43c2-af9b-dd0598efec32)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/cc093398-9c8d-4035-a91a-f0a69cc2b823)
+
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Fundamentación
@@ -73,16 +74,18 @@
 
 ### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)   Análisis  para la variable estadística A
 #### Edad de los clientes frecuentes de la vinoteca Casacatar en el año 2022
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/e9b2cf4f-0745-46d2-9c3b-6ce4a328dddc)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/cafaadd6-4ba4-43a4-ada4-a47496d87206)
+
+
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/3b932c86-31f2-440f-b5cd-f0dc429ba1d6)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/5ba17bc0-2999-41d5-9a78-4ab5c2cb67ba)
 
 #### Se observa en el gráfico una distribución rectangular de las observaciones, donde la frecuencia para las edades se mantiene constante, lo cual indica que los clientes frecuentes, de vinoteca Casacatar en el año 2022, no se presentaron en un determinado rango etario acotado, más bien estuvieron distribuidos constantes entre los 18 y 89 años.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Análisis de medidas descriptivas
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/84abb5ac-f657-4e71-9bd3-834eb5377556)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/a0960bb7-a468-421f-8160-c6c03d60fc19)
 #### Medidas de tendencia central:
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Media: 55 años
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Mediana: 55 años
@@ -107,7 +110,7 @@
 
 ### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0) Análisis  para la variable estadística B
 #### Sexo de los clientes frecuentes de la vinoteca Casacatar en el año 2022.
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/940a64df-d9c5-475d-bd62-7d8a093adbda)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/3efe2c00-2b18-4d87-b3db-4fd88f91f025)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### En el diagrama sectorial se aprecia que los clientes frecuentes de la vinoteca Casacatar en el año 2022 que pertenecen al sexo masculino poseen un 53,49% de ponderación sobre el total, por lo cual, al representar más del 50% sobre el total constituyen la mayoría.
 
@@ -117,11 +120,11 @@
 
 ### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0) Análisis  para la variable estadística C
 #### Cantidad de unidades adquiridas por los clientes frecuentes de la vinoteca Casacatar en el año 2022.
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/7c61a402-7b47-45e9-b02d-b000d311451f)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/8d34be27-ff18-4124-84ee-3237d582a8c3)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Se logra observar con claridad en es histograma que la mayoría de los clientes frecuentes de Casacatar adquirieron entre 19 y 382 unidades, en el año 2022.
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/8deac0b1-4f50-44e3-a6b3-731a67d26bea)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/d5bb7aa8-be56-4b4e-b30f-fec9a2c482aa)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -130,7 +133,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Análisis de medidas descriptivas
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/84abb5ac-f657-4e71-9bd3-834eb5377556)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/8b4e2aa2-de14-45f0-85d2-b8cd1c8fbec4)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Medidas de tendencia central:
@@ -153,10 +156,12 @@
 
 ### ![icons8-esfera-48](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/94803a01-df29-49e1-8394-90941b67c7e0)  Análisis  para la variable estadística D
 #### Cercanía a la vinoteca en metros de los clientes frecuentes de la vinoteca Casacatar en el año 2022.
-![image](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/dbdfcf2d-e761-4b92-927e-8b94c4e7ba43)
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/88f63c60-02f7-4eda-ae8e-e1345fd1a329)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### Se observa en el histograma una asimetría hacia la derecha, la cual indica que los clientes frecuentes de Casacatar en el año 2022 fueron principalmente de un radio cercano al local, pero también se presentaron algunos clientes de amplia distancia al mismo.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![image](https://github.com/agustinphx/estadistica_aplicada/assets/58674979/8c0db74d-02d4-4294-89fd-70d1b234cbdb)
+
 ### Medidas de tendencia central:
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Media:   2581 metros
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Mediana: 2074 metros

@@ -201,5 +201,3 @@ El repositorio contiene todos los proyectos realizados en la asignatura: "Estad�
 ## InfoStat ![1](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/ca4007e5-1fdb-46f8-b6df-6ed215a9b8c3)
 
 #### https://www.infostat.com.ar/
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-#### Bibliografia consultada: Estadística para Administración y Economía, autores: David R. Anderson, Dennis J. Sweeney & Thomas A. Williams, editorial: Cengage, 10a edición.

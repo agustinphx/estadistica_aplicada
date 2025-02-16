@@ -1,17 +1,18 @@
 # Estadística aplicada a los negocios  ![icons8-estadísticas-64](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/184b4b85-0b85-4fb8-9353-8dcbfbd6129e)
 
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## El repositorio contiene todos los proyectos realizados en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
-## La asignatura está compuesta por los siguientes contenidos:
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a estadística.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos univariados.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos bivariados.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Series de tiempo.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Probabilidad.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Distribuciones de probabilidad.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Estimadores y distribuciones muestrales.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Intervalos de confianza.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Test de hipótesis.
+El repositorio contiene todos los proyectos realizados en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
+###  ‎ ‎ ‎ ‎ ‎
+
+### La asignatura está compuesta por los siguientes contenidos:
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a estadística.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos univariados.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos bivariados.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Series de tiempo.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Probabilidad.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Distribuciones de probabilidad.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Estimadores y distribuciones muestrales.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Intervalos de confianza.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Test de hipótesis.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Proyecto integrador: Análisis de la vinoteca Casacatar 
 #### Fuente de datos:  ‎ ‎[TI_Problemática.xlsx](https://github.com/agustinphx/Estadisticada_aplicada/files/14389276/TI_Problematica.xlsx)

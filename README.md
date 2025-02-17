@@ -1,6 +1,6 @@
 # Estadística aplicada a los negocios  ![icons8-estadísticas-64](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/184b4b85-0b85-4fb8-9353-8dcbfbd6129e)
 
-El repositorio contiene todos los proyectos realizados en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
+Este repositorio contiene proyectos prácticos realizados en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
 ###  ‎ ‎ ‎ ‎ ‎
 
 ### La asignatura está compuesta por los siguientes contenidos:

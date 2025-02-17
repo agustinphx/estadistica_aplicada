@@ -25,6 +25,7 @@ El repositorio contiene todos los proyectos realizados en la asignatura: "Estad�
 
 ### Resumen estadístico
 #### En base a esta problemática se ha estudiado el rango etario que caracterizó a los clientes frecuentes de la vinoteca Casacatar en el año 2022, se ha identificado que fue el sexo masculino el que predominó entre ellos y que los clientes frecuentes pertenecieron a un radio relativamente de cercanía al local. Por otra parte, se ha analizado las cantidades de unidades adquiridas, donde es preciso mencionar que, se ha detectado la presencia de una gran cantidad de unidades adquiridas como valores atípicos (outliers), por lo que se considera que sería conveniente realizar un estudio separando los tipos de clientes, en aquellos que compran cantidades de un público minorista, por ejemplo, hasta 350 unidades adquiridas, y aquellos que compran grandes cantidades, cuando las unidades adquiridas sean mayores a 350. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Metodología
 #### Se ha trabajado con medidas descriptivas utilizando diversos software open source como R e InfoStat.

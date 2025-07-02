@@ -1,20 +1,9 @@
 # Estadística aplicada a los negocios  ![icons8-estadísticas-64](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/184b4b85-0b85-4fb8-9353-8dcbfbd6129e)
 
-Este repositorio contiene el análisis estadístico realizado para la "[Vinoteca Casacatar](https://casacatar.com/)"
+Este repositorio contiene el análisis estadístico descriptivo e inferencial realizado para la [Vinoteca Casacatar](https://casacatar.com/).
 ###  ‎ ‎ ‎ ‎ ‎
-
-### Tópicos a cubrir en el marco del análisis:
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a estadística.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos univariados.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos bivariados.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Series de tiempo.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Probabilidad.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Distribuciones de probabilidad.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Estimadores y distribuciones muestrales.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Intervalos de confianza.
-#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Test de hipótesis.
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto integrador: Análisis de la vinoteca Casacatar 
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## Informe estadístico aplicado a Casacatar 
 #### Fuente de datos:  ‎ ‎[TI_Problemática.xlsx](https://github.com/agustinphx/Estadisticada_aplicada/files/14389276/TI_Problematica.xlsx)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 

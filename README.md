@@ -1,6 +1,6 @@
 # Estadística aplicada a los negocios  ![icons8-estadísticas-64](https://github.com/agustinphx/estadistica_aplicada_negocios/assets/58674979/184b4b85-0b85-4fb8-9353-8dcbfbd6129e)
 
-Este repositorio contiene el trabajo integrador realizado para la empresa "Vinoteca Casacatar" en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
+Este repositorio contiene el trabajo integrador realizado para la "[Vinoteca Casacatar](https://casacatar.com/)" en la asignatura: "Estadística Aplicada a los Negocios" de la Universidad Católica de Santa Fe.
 ###  ‎ ‎ ‎ ‎ ‎
 
 ### La asignatura está compuesta por los siguientes contenidos:

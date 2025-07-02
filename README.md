@@ -3,7 +3,7 @@
 Este repositorio contiene el análisis estadístico realizado para la "[Vinoteca Casacatar](https://casacatar.com/)"
 ###  ‎ ‎ ‎ ‎ ‎
 
-### La asignatura está compuesta por los siguientes contenidos:
+### Tópicos a cubrir en el marco del análisis:
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a estadística.
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos univariados.
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de datos bivariados.

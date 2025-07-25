@@ -4,7 +4,8 @@ Este repositorio contiene el análisis estadístico descriptivo e inferencial re
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### La organización y su problemática 
-#### Casacatar en una empresa minorista que se dedica a guardar y comercializar vinos, la cual nace como una tienda física y luego se expande mediante una tienda online, en vistas de aplicar la transformación digital a la cultura y procesos organizacionales. La empresa plantea la siguiente inquietud: ¿Qué caracteriza a los clientes frecuentes? Para ello, se solicita un informe detallado para que la empresa pueda conocer más sobre sus clientes y mejorar la toma de decisiones.
+#### Casacatar en una empresa minorista que se dedica a guardar y comercializar vinos, la cual nace como una tienda física y luego se expande mediante una tienda online, en vistas de aplicar la transformación digital a la cultura y procesos organizacionales. 
+#### La empresa plantea la siguiente inquietud: ¿Qué caracteriza a los clientes frecuentes? Para ello, se solicita un informe detallado para que la empresa pueda conocer más sobre sus clientes y mejorar la toma de decisiones.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 

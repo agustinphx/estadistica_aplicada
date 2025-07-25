@@ -6,7 +6,7 @@ Este repositorio contiene el análisis estadístico descriptivo e inferencial re
 ### La organización y su problemática 
 #### Casacatar en una empresa minorista que se dedica a guardar y comercializar vinos, la cual nace como una tienda física y luego se expande mediante una tienda online, en vistas de aplicar la transformación digital a la cultura y procesos organizacionales. La empresa plantea la siguiente inquietud: ¿Qué caracteriza a los clientes frecuentes de la vinoteca Casacatar? A tener en cuenta, los clientes frecuentes son los que han visitado la vinoteca al menos 12 veces en el año corriente.
 
-#### El informe completo se encuentra cargado en formato PDF.
+#### El [informe completo](https://github.com/agustinphx/estadistica_aplicada/blob/main/Proyecto%20Casacatar%20-%20Data%20Analytics.pdf) se encuentra cargado en formato PDF.
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
 ## Herramientas utilizadas: 
 ## Excel ![icons8-ms-excel-48](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e103657c-e678-42a2-9bfa-75ccc4beea13)
